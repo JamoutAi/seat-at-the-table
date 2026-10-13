@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Edit(/sessions/**)",
+      "Bash(python .claude/skills/seat-at-the-table/scripts/check_quotes.py:*)",
+      "Bash(python3 .claude/skills/seat-at-the-table/scripts/check_quotes.py:*)"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+.env
+node_modules/
+.DS_Store
+
+# your councils stay on your machine; the examples ship with the repo
+sessions/*
+!sessions/.gitkeep
+!sessions/*example*/

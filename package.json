@@ -1,0 +1,12 @@
+{
+  "name": "roast-room",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A Seat at the Table: eight AI advisors built from the public work of Sheryl Sandberg, Oprah Winfrey, Jamie Kern Lima, Arianna Huffington, Leila Hormozi, Codie Sanchez, Alex Hormozi, and Gary Vaynerchuk debate your decision in Claude Code, live around a table. Remixed from Nate Herk's Roast Room.",
+  "type": "module",
+  "scripts": {
+    "start": "node app/server.mjs",
+    "smoke": "node app/scripts/smoke.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

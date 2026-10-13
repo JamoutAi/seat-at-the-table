@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "seat-at-the-table", "runtimeExecutable": "node", "runtimeArgs": ["app/server.mjs"], "port": 4730 }
+  ]
+}
