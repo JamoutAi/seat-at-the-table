@@ -2,8 +2,6 @@
 
 ![A Seat at the Table](docs/room.jpg)
 
-> **Still pulling up chairs:** the Sheryl Sandberg, Leila Hormozi, and Codie Sanchez seats are being finished and land here very soon. The other five work today.
-
 Bring a hard business decision and eight AI advisors argue it out, then hand you a scored verdict and a one-click PDF. Six of the eight seats belong to women who built big things: Sheryl Sandberg, Oprah Winfrey, Jamie Kern Lima, Arianna Huffington, Leila Hormozi, and Codie Sanchez. Alex Hormozi and Gary Vaynerchuk keep their chairs. Each seat is built from that person's public talks, interviews, and keynotes. The council runs in Claude Code, and a small local web app shows them around a table talking it through.
 
 This is a remix of Nate Herk's [Roast Room](https://github.com/nateherkai/roast-room), which is MIT licensed. Nate built the engine. I noticed his board was all dudes, so I pulled up more chairs. 🧡 Jam

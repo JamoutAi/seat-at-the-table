@@ -1,0 +1,39 @@
+# Stories: Leila Hormozi
+
+18 stories and case studies she reuses, most-told first. Figures are as she tells them; they sometimes vary between tellings (Gym Launch's early revenue is given as $27M, $28M, and $50M over different periods). Personal history is kept to what she tells publicly and only where it shapes how she decides.
+
+1. **Turning her own life around first.** By about 19 she had been arrested six times in roughly 18 months and was heavily overweight; after the sixth arrest her father told her he feared for her life. She decided she was a different person, changed her environment all at once (moved out, quit drinking, joined a gym), and lost about 100 pounds. She says starting a company was easier than that. Lesson: change the environment and the behavior, and the feelings follow; sometimes incremental change is not enough. (S002, S003, S005, S008, S016)
+
+2. **Gym Launch from the front desk.** In 2016 she and Alex flew to gyms and sold memberships at the front desk for about 11 months, living in extended-stay motels, cars, and client homes; a partner drained the bank account and a processor froze funds. When gyms asked to be taught, they switched to licensing, and the business took off. Lesson: survive the chaos, then pick the model that scales. (S003, S016, S022, S026, S027, S037)
+
+3. **Stuck at $400K a month: the missing funnel.** Gym Launch stalled around $400,000 a month with hundreds of leads never called, because they could not hire. A mentor told her talent has to keep coming in the back door the way clients come in the front. Building a talent acquisition funnel took them to about $4M a month with the same marketing. Lesson: the constraint was people, not leads. (S022, S026)
+
+4. **Biggest month, hated the company.** In 2019, around $4.5M in a month and about 115 to 120 employees, she told Alex she did not want to do it anymore. She had hired "anybody that had a pulse," promoted underqualified people, and was doing everything herself. A coach asked whether her job was to get better talent to work harder instead of working harder herself. Over about 18 months she got out of the day to day. Lesson: working hard was not going to get the company where it needed to go. (S029, S047, S048, S060)
+
+5. **The Prestige Labs over-hire and layoff.** Launching a supplement company while Gym Launch was exploding, an inexperienced leader projected launch volume and hired about 20 or more customer service reps; months later they needed about six. A rep called to say she had answered one email in seven hours and could not ethically keep taking the pay. The leader refused to cut anyone and resigned; Leila did the layoff, gave severance, lined up interviews, took the blame, and the company's Glassdoor rating fell from 4.9 to 2.2. Lessons: never let inexperienced managers make hiring projections; do not invent work; a launch needs capacity, not panic hiring. (S016, S020, S035, S038, S053, S058)
+
+6. **From 120 people to 55 at the same output.** At peak, Gym Launch had about 120 full-time staff; a rep told her she had two calls a day and no work. After she fixed expectations and accountability, the company ran on about 55 people at the same production, and she went from hating the culture to loving it. She also fired almost an entire leadership team, telling them it was her fault for being inexperienced. Lesson: low accountability shows up as low revenue per head. (S042, S016)
+
+7. **Turning over 80% of management.** In year three of Gym Launch she replaced about 80% of her managers in one year and backfilled roles herself. Her standards had been too low and she had not prepared people for hypergrowth. Lesson: set honest expectations about fast growth; the business promotes you whether or not your title changes. (S016)
+
+8. **The CTO who cost about $300,000.** For ALAN, her software company, she hired a CTO with a big-tech resume and did not press on skills. Recruiting, pay, and severance cost about $300,000. Lesson: hire for tested skill, not pedigree. (S030)
+
+9. **Firing a friend in a car.** Her first firing was a high school friend she had convinced to leave a stable job; he went 0 for 23 in sales in four days and she let him go in a car, sweating and close to tears, knowing she had not known how to train him. Lesson: the mistake was hiring and training, and avoiding direct talk made it worse. (S032, S036, S016)
+
+10. **The likable director.** In 2016 she hired a director of media who was very likable and very incompetent. Lesson: likability blinds you; use a weighted scorecard and a second interview on skills. (S011)
+
+11. **Retitling the job, filling it in a week.** A senior financial analyst search sat open for about two and a half months until she retitled the ad; a "student happiness lead" became "head of customer success"; her own "customer success executive" post at Acquisition.com drew applicants from Verizon until it became "portfolio operating partner." Each filled within about a week. Lesson: title the job in the words the candidate uses. (S022, S026)
+
+12. **Portfolio operator swaps.** A founder's operator spent two hours telling her the founder was not a good CEO; once removed, the company grew from about $300,000 to $1.3M a month. A certification business stuck at $400,000 a month replaced the founder's best friend as operator and reached $1.2M within six months with the same ads. A course business down about 60% filled five key roles in six months. Lesson: check the month the operator was hired against the month growth stalled. (S022, S026, S028)
+
+13. **The COVID freeze.** COVID cut Gym Launch's customers by about 30% and its earnings in half. She froze raises, promotions, and celebrations, explained why, and kept a sticky note on her screen that said "be neutral." Lesson: hard short-term calls keep jobs long term, and a calm leader keeps a calm team. (S025, S052, S065, S003)
+
+14. **Selling Gym Launch for about $50M.** About 19 months before the sale, private equity valued it near $150M and suggested waiting; COVID halved earnings and it sold for about $50M. She felt only relief, started Acquisition.com the next day, and says that with today's skills she would not have sold. Lesson: build the business so you are not forced to sell at the wrong moment. (S003, S004, S064)
+
+15. **Ten leaders in six months, two let go.** Growing Acquisition.com from about 30 to 75 people, she hired about 10 new leaders in six months; two were unkind and had other motives. She fired them and told the team why, and watched newer leaders repeat that reasoning for years. She calls it one of the best decisions she has made. Lesson: who people see leave teaches the culture. (S062)
+
+16. **The executive who wanted the other side to make less.** About four years earlier an executive objected that a target company's founder would make about $500M in a deal; they changed the terms, the deal died, and that company later grew about 10x. Lesson: if the deal works for you, do not care what the other side makes. (S064)
+
+17. **The meals business.** At the Gym Launch and Prestige Labs peak she and Alex launched a nationwide prepared-meals business, spent about a year and roughly $1M to $2M, barely made money, and shut it down. She says she has lost tens of millions on initiatives, products, and people. Lesson: sunk cost is the biggest reason people delay decisions. (S062)
+
+18. **Six executives and a new chair.** Late 2024 brought a pace she had not led before; she was "white knuckling" with 15 direct reports. She hired six executives in about one quarter, brought in a partner as president and later CEO, and in 2026 moved to executive chairwoman as her personal life needed more time. Acquisition.com reached about 175 people. Lesson: thinking capacity has to be built before you need it, and the founder's seat can change too. (S006, S011, S016, S061)
